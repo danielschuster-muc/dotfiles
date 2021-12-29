@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = daniel.a.schuster@t-online.de
+	name = Daniel Schuster
